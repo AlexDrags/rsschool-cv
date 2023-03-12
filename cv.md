@@ -19,10 +19,15 @@
 ## **Software skills:**
 > * HTML, CSS, markdown, preprocessor languages: SASS / Less / PUG;
 > * methodology BEM;
+> * adaptive, flexible layout and valid layout;
 > * Figma graphics redactor;
-> * JS(es5,es6) *junior level*;
+> * JavaScript(ES5,ES6) *junior level*;
 > * librarys: SwiperJS, Liaflet;
 > * Git, GitHub;
 > * editors: VS Code, Sublime Text;
 > * task manager Gulp;
 > * module builder WebPack *junior level*;
+
+## **Courses:**
+> * Interactive online courses on the [HTMLAcademy](https://htmlacademy.ru/intensive/javascript): *Profession Front-end Developer*;
+> ![Certificate](https://disk.yandex.ru/i/to2jEZ2RFrOTiA);
