@@ -27,6 +27,8 @@
 > * editors: VS Code, Sublime Text;
 > * task manager Gulp;
 > * module builder WebPack *junior level*;
+> * ReactJS *basic level*;
+> * systems: Windows OS, Linux(Ubuntu);
 
 ## **Code example:**
 Simple multiplication from CODEWARS: *This kata is about multiplying a given number by eight if it is an even number and by nine otherwise*.
@@ -38,7 +40,20 @@ function simpleMultiplication(number) {
     return number * 9;
 }
 ```
+## **Experience:**
+> Learn projects:
+> * [SyperGym](https://github.com/AlexDrags/SyperGym);
+> * [Antarctic-region](https://github.com/AlexDrags/Antarctic-region);
+> * [SmartDevice](https://github.com/AlexDrags/SmartDevice);
+> * [Drink2Go](https://github.com/AlexDrags/Drink2Go/tree/master/source);
+> * [Pink](https://github.com/AlexDrags/pink/tree/master/source);
+> * [Sedona](https://github.com/AlexDrags/sedona);
 
-## **Courses:**
+## **University and Courses:**
+> * University: Ivanovo State University of Trade and Economics - tourism manager;
 > * Interactive online courses on the [HTMLAcademy](https://htmlacademy.ru/intensive/javascript): *Profession Front-end Developer*;\
 > ![Certificate](./certificate.jpg);
+
+## **Languages:**
+> * Russian(native);
+> * English(basic/Intermediate);
