@@ -29,5 +29,5 @@
 > * module builder WebPack *junior level*;
 
 ## **Courses:**
-> * Interactive online courses on the [HTMLAcademy](https://htmlacademy.ru/intensive/javascript): *Profession Front-end Developer*;
-> ![Certificate](https://disk.yandex.ru/i/to2jEZ2RFrOTiA);
+> * Interactive online courses on the [HTMLAcademy](https://htmlacademy.ru/intensive/javascript): *Profession Front-end Developer*;\
+> ![Certificate](https://disk.yandex.ru/i/65FubtQV1pg85Q);
