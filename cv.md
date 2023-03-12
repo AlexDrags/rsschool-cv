@@ -28,6 +28,17 @@
 > * task manager Gulp;
 > * module builder WebPack *junior level*;
 
+## **Code example:**
+Simple multiplication from CODEWARS: *This kata is about multiplying a given number by eight if it is an even number and by nine otherwise*.
+```
+function simpleMultiplication(number) {
+    if(number % 2 === 0) {
+      return number * 8;
+    }
+    return number * 9;
+}
+```
+
 ## **Courses:**
 > * Interactive online courses on the [HTMLAcademy](https://htmlacademy.ru/intensive/javascript): *Profession Front-end Developer*;\
 > ![Certificate](./certificate.jpg);
