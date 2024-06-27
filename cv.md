@@ -26,7 +26,9 @@ Front-end developer, I have 2 years of non-commercial development experience.I l
 Complete the solution so that it returns true if the first argument(string) passed in ends with the 2nd argument (also a string). 
 ```
 function solution(str, ending){
-  return str.slice(-3) == ending.slice(-3);
+  
+  return str.endsWith(ending);
+  
 }
 ```
 
