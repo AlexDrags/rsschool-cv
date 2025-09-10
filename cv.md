@@ -40,8 +40,8 @@ Worked on projects at Liga.A. as part of a team of 4 people. Performed tasks acc
 ============
 ## Education:
 
-- Course "Profession Front-end Developer", HTML Academy (2022)
-- Course “JavaScript/Front-end”, RSSchool (2023)
+- [Course "Profession Front-end Developer", HTML Academy (2022)](https://disk.yandex.ru/i/65FubtQV1pg85Q)
+- [Course “JavaScript/Front-end”, RSSchool (2024)](https://app.rs.school/certificate/jz01hu9w)
 
 ============
 ## Languages:
